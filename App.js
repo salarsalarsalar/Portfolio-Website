@@ -7,8 +7,7 @@ const App = () => {
     document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' });
   };
 
-  // Portfolio images - Using placeholders as the provided zip was empty.
-  // Replace these with your actual image URLs!
+  // Portfolio images - Using placeholders. Replace these with your actual image URLs!
   const portfolioImages = Array.from({ length: 36 }, (_, i) => ({
     id: i + 1,
     src: `https://placehold.co/600x400/34D399/FFFFFF?text=Portfolio+Image+${i + 1}`, // Example placeholder
@@ -88,12 +87,17 @@ const App = () => {
   // The main App component render
   return (
     <div className="min-h-screen bg-gray-900 text-gray-100 font-inter">
-      {/* Tailwind CSS Script - Essential for styling */}
-      <script src="https://cdn.tailwindcss.com"></script>
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      {/*
+        NOTE FOR TAILWIND CSS V4:
+        - The Tailwind CSS CDN script is no longer needed as you're using a local installation.
+        - The meta viewport tag should be in your public/index.html file (which Create React App usually includes).
+        - The font link can be moved to public/index.html or imported in src/index.css via @import rule.
+      */}
 
-      {/* Font - Inter */}
-      <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+      {/* If you want to keep the font import here, ensure it's loaded appropriately
+          Otherwise, consider moving it to public/index.html or src/index.css
+      */}
+      {/* <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" /> */}
 
       {/* Navigation Bar */}
       <nav className="fixed w-full bg-gray-800 bg-opacity-90 z-20 shadow-lg py-4">
