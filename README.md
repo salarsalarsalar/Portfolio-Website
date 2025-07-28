@@ -1,7 +1,9 @@
 # Salar Ahmed's Data Science & Full-Stack Portfolio
 
-![Portfolio Screenshot](public/website_screenshot.png)
+[![Deployed with Vercel](https://vercel.com/button)](https://vercel.com/salarsalarsalar/my-portfolio)
 
+![Portfolio Screenshot](/website_screenshot.png)
+*(This is a screenshot of your deployed portfolio!)*
 
 A dynamic and modern portfolio website showcasing my expertise in Data Science, Machine Learning, Data Visualization, and Full-Stack Development. This interactive platform features dynamically loaded GitHub projects, an expandable portfolio image gallery, and engaging scroll-reveal animations.
 
@@ -23,14 +25,15 @@ Explore the live version of my portfolio deployed on Vercel:
 
 ## Technologies Used
 
-This project is built with:
-
-* **React.js:** A JavaScript library for building user interfaces.
-* **Tailwind CSS v4 (Alpha/Beta):** A utility-first CSS framework for rapid UI development, configured via PostCSS.
-* **JavaScript (ES6+):** For all interactive functionalities.
-* **HTML5 & CSS3:** For structuring and styling the content.
-* **GitHub API:** Used to fetch public repository data.
-* **Intersection Observer API:** For implementing scroll-reveal animations without external libraries.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48" height="48"/> 
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="48" height="48"/>
+</p>
 
 ## Setup and Local Development
 
@@ -93,15 +96,19 @@ To run this project on your local machine:
 
 This project is configured for easy deployment with [Vercel](https://vercel.com/).
 
-1.  Push your code to a GitHub (or GitLab/Bitbucket) repository.
-2.  Log in to Vercel and select "New Project".
-3.  Import your repository. Vercel will automatically detect the React framework and set up the build process.
-4.  Click "Deploy" to publish your portfolio online!
-
 ## Contact
 
-Feel free to reach out to me:
+<p align="center">
+  <a href="mailto:salarahmed9876@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" width="48" height="48"/>
+  </a>
+  <a href="https://github.com/salarsalarsalar" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48" height="48"/>
+  </a>
+  <a href="https://www.linkedin.com/in/salar-ahmed-426622296/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="48" height="48"/>
+  </a>
+</p>
 
-* **Email:** salarahmed9876@gmail.com
-* **GitHub:** [https://github.com/salarsalarsalar](https://github.com/salarsalarsalar)
-* **LinkedIn:** (Add your LinkedIn profile URL here)
+---
+
