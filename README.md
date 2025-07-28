@@ -1,6 +1,6 @@
 # Salar Ahmed's Data Science & Full-Stack Portfolio
 
-[![Deployed with Vercel](https://vercel.com/button)](https://vercel.com/salarsalarsalar/my-portfolio)
+
 
 ![Portfolio Screenshot](public/website_screenshot.png)
 *(This is a screenshot of your deployed portfolio!)*
@@ -9,8 +9,9 @@ A dynamic and modern portfolio website showcasing my expertise in Data Science, 
 
 ## Live Demo
 
-Explore the live version of my portfolio deployed on Vercel:
-👉 [https://my-portfolio-m4elqliu4-salar-ahmeds-projects.vercel.app/](https://my-portfolio-m4elqliu4-salar-ahmeds-projects.vercel.app/)
+Explore the live version of my portfolio deployed on Vercel
+
+[![Deployed with Vercel](https://vercel.com/button)](https://vercel.com/salarsalarsalar/my-portfolio)
 
 ## Features
 
