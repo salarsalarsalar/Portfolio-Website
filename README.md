@@ -2,7 +2,7 @@
 
 [![Deployed with Vercel](https://vercel.com/button)](https://vercel.com/salarsalarsalar/my-portfolio)
 
-![Portfolio Screenshot](/website_screenshot.png)
+![Portfolio Screenshot](public/website_screenshot.png)
 *(This is a screenshot of your deployed portfolio!)*
 
 A dynamic and modern portfolio website showcasing my expertise in Data Science, Machine Learning, Data Visualization, and Full-Stack Development. This interactive platform features dynamically loaded GitHub projects, an expandable portfolio image gallery, and engaging scroll-reveal animations.
