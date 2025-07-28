@@ -11,7 +11,7 @@ A dynamic and modern portfolio website showcasing my expertise in Data Science, 
 
 Explore the live version of my portfolio deployed on Vercel
 
-[![Deployed with Vercel](https://vercel.com/button)](https://vercel.com/salarsalarsalar/my-portfolio)
+[![Deployed with Vercel](https://vercel.com/button)](https://my-portfolio-m4elqliu4-salar-ahmeds-projects.vercel.app/)
 
 ## Features
 
